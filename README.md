@@ -41,8 +41,6 @@ Structure
 
 •	main.py: Runs full simulation and outputs results
 
-•	sensitivity_analysis.py: Generates charts to analyze risk and return under changing assumptions
-
 Technologies
 
 •	Python (Pandas, NumPy, Matplotlib)
