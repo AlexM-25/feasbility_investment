@@ -1,0 +1,4 @@
+Product,Units,Total_Revenue,Acquisition_Cost,Development_Cost,Total_OpEx,NOI,IRR,Equity_Multiple,Break_Even_Year
+Multi-Family,300,"$7,160,400",$0,"$57,000,000","$1,500,000","$5,660,400",-57.29%,0.10x,N/A
+Attached,100,"$3,586,800",$0,"$36,000,000","$550,000","$3,036,800",-52.90%,0.08x,N/A
+Detached,100,"$4,243,200",$0,"$50,000,000","$600,000","$3,643,200",-46.32%,0.07x,N/A
